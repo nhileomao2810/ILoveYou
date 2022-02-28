@@ -23,7 +23,7 @@ function dXY()
 
 function win()
 {
-    alert('Thế Giờ Mày Là Người Yêu Rồi Nha!');
+    alert('Thế Giờ Mày Là Người Yêu Tau Rồi Nha!');
 }
 const no = document.querySelector('.no');
 no.addEventListener('click', dXY);
